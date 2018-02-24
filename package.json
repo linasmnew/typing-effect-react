@@ -1,7 +1,7 @@
 {
   "name": "linas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Efficient & Lightweight typing effect",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -9,8 +9,16 @@
     "build": "webpack",
     "start": "webpack-dev-server --open"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linasmnew/typing-effect-react.git"
+  },
+  "author": "Linas Mickevicius <linasmnew@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linasmnew/typing-effect-react/issues"
+  },
+  "homepage": "https://github.com/linasmnew/typing-effect-react#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
@@ -26,5 +34,6 @@
   "peerDependencies": {
     "react": ">=14.0.0",
     "react-dom": ">=14.0.0"
-  }
+  },
+  "keywords": ["typing-effect", "react", "react-component"]
 }

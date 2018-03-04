@@ -8,9 +8,7 @@ Efficient &amp; Lightweight typing effect
 
 ### Installation
 
-```sh
-npm install --save typing-effect-react
-```
+To be added.
 
 ### Basic Usage
 

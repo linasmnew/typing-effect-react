@@ -192,8 +192,8 @@ class TypeEffect extends Component {
 }
 
 TypeEffect.defaultProps = {
-  typingSpeed: 48, // frame delay period between each character, ~20 frames per second, so around ~20 characters per second
-  deletingSpeed: 48, // frame delay period between each character, ~20 frames per second, so around ~20 characters per second
+  typingSpeed: 32, // frame delay period between each character
+  deletingSpeed: 32, // frame delay period between each character
   pauseBeforeRestarting: 1000,
   pauseBeforeDeleting: 1500,
   data: [],

@@ -1,6 +1,6 @@
 # Typing Effect in React
 
-Efficient &amp; Lightweight typing effect
+Efficient &amp; Lightweight typing effect made using requestAnimationFrame
 
 ### Example
 
